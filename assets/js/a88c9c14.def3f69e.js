@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkamatak=self.webpackChunkamatak||[]).push([[4123],{6838:a=>{a.exports=JSON.parse('{"permalink":"/https://amatak-org.github.io/Amatak/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

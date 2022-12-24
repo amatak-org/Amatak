@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkamatak=self.webpackChunkamatak||[]).push([[2871],{7479:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/https://amatak-org.github.io/Amatak/blog/tags/docusaurus","allTagsPath":"/https://amatak-org.github.io/Amatak/blog/tags","count":4}')}}]);
